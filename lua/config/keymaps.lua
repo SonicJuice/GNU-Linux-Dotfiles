@@ -1,6 +1,6 @@
 local keymap = vim.keymap
 
--- Set <space> as the <leader> key
+-- Set <Space> as the <Leader> key
 vim.g.mapleader = " "
 
 -- Clear search highlighting by pressing <Esc> in normal mode
