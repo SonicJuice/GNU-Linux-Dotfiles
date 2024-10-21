@@ -1,2 +1,6 @@
-# Nvim and Linux Configs
-My Neovim and GNU/Linux configuration files!
+# dotfiles
+My personal dotfiles!
+
+## Components
+- Neovim
+- tlp.conf
