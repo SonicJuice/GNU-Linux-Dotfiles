@@ -1,6 +1,10 @@
-# dotfiles
-My personal dotfiles!
+# GNU-Linux-Dotfiles
+My personal GNU/Linux dotfiles! 
 
-## Components
-- Neovim
+## etc ##
 - tlp.conf
+- dnf.conf
+
+## .config ##
+- Neovim
+- kitty.conf
